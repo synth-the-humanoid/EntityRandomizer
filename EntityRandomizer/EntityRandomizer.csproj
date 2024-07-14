@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="KHMI">
+      <HintPath>..\..\KHMI\KHMI\bin\Release\net8.0\KHMI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
